@@ -1,3 +1,4 @@
 {
-    "save_rate": 1
+    "save_rate": 1,
+    "max_backups_count": 5
 }
